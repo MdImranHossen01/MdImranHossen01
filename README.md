@@ -1,13 +1,19 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%2C%20I'm%20Md%20Imran%20Hossen!&fontSize=70&fontAlignY=35" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=250&section=header&text=Md%20Imran%20Hossen&fontSize=70&fontAlignY=38&fontColor=ffffff&animation=fadeIn" alt="Header Banner"/>
 </p>
+
+<div align="center">
+  <h2>
+    <strong>Full-Stack Developer</strong>
+  </h2>
+</div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/dev-mdimranhossen/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://www.jiapixel.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-343434?style=for-the-badge&logo=dribbble&logoColor=white" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=dribbble&logoColor=white" alt="Portfolio">
   </a>
   <a href="mailto:mail.mdimranhossen@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
@@ -16,9 +22,21 @@
 
 ---
 
-### About Me
+### 👋 About Me
 
-I'm a passionate **Full-Stack Developer** from Bangladesh 🇧🇩, specializing in the MERN stack. I thrive on building dynamic, user-friendly web applications and transforming complex problems into elegant, intuitive digital experiences. My goal is to write clean, efficient, and scalable code.
+<p>
+  I am a passionate Full-Stack Developer with a primary goal of creating user-friendly and engaging web applications. I love transforming complex problems into simple and effective solutions. Currently, I am focusing on writing scalable and efficient code using the MERN stack.
+  <br><br>
+  📍 **Location:** Dhaka, Bangladesh
+</p>
+
+---
+
+### 🌱 Currently Exploring & Working On
+
+* 🚀 **Next.js & Server-Side Rendering:** I'm deepening my expertise in Next.js to build faster, SEO-friendly applications.
+* 💡 **Project [PathChakro]:** Currently working on a comprehensive tourism website to provide seamless travel planning.
+* 🤝 **Open Source:** Looking to contribute to open-source projects related to JavaScript and developer tools.
 
 ---
 
@@ -74,14 +92,10 @@ I'm a passionate **Full-Stack Developer** from Bangladesh 🇧🇩, specializing
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MdImranHossen01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Your GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdImranHossen01&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MdImranHossen01&show_icons=true&theme=merko&include_all_commits=true&count_private=true" alt="Md Imran Hossen's GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdImranHossen01&layout=compact&langs_count=8&theme=merko" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MdImranHossen01&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=MdImranHossen01&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" /> 
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=MdImranHossen01&theme=merko&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
