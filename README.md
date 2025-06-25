@@ -74,14 +74,14 @@ I'm a passionate **Full-Stack Developer** from Bangladesh 🇧🇩, specializing
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=JiaPixel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Your GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiaPixel&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MdImranHossen01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Your GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdImranHossen01&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JiaPixel&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MdImranHossen01&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=JiaPixel&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" /> 
+  <img src="https://komarev.com/ghpvc/?username=MdImranHossen01&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" /> 
 </p>
