@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/dev-mdimranhossen/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://www.jiapixel.com" target="_blank">
+  <a href="https://mdimranhossen-dev.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=dribbble&logoColor=white" alt="Portfolio">
   </a>
   <a href="mailto:mail.mdimranhossen@gmail.com">
